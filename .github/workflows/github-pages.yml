@@ -4,13 +4,9 @@ on:
   push: 
     branches: 
       - main
-  pull_request:
-    branches: 
-      - main
 
 jobs:
-  jekyll:
-    runs-on: ubuntu-18.04 # ubuntu-latest is now 20.04 and doesn't seem to work
+  github-pages:
+    runs-on: ubuntu-18.04
     steps:
-      # checkout code
       - uses: actions/checkout@v2
