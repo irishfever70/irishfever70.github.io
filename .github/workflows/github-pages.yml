@@ -1,12 +1,12 @@
-name: build site with jekyll and deploy on github pages
+name: Build and deploy Jekyll site to GitHub Pages
 
 on:
-  push: 
-    branches: 
-      - main
+  push:
+    branches:
+      - main # or master before October 2020
 
 jobs:
   github-pages:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
