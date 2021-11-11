@@ -1,6 +1,6 @@
 var store = [{
         "title": "Welcome to Irish Fever!",
-        "excerpt":"Hello this is Irish Fever talking ! ","categories": ["Layout"],
+        "excerpt":"Hello this is Irish Fever talking !And its friends. ","categories": ["Layout"],
         "tags": [],
         "url": "/layout/welcome-to-irishfever/"
       },{
