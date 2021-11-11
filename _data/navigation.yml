@@ -1,11 +1,11 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: Accueil
   url: /
 # - title: Posts
 #   url: /posts/
-# - title: Categories
-#   url: /categories/
+- title: Agenda
+  url: /posts
 # - title: Tags
 #   url: /tags/
 # - title: Recipes

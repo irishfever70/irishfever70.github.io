@@ -18,10 +18,10 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: fr-FR
 title: "Irish Fever"
-description: "Le crincrin jusqu'au bout de la nuit."
+description: "Toute l'Irlande dans une fausse note."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/images/logo.png"
 date_format: "%m/%d/%Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
