@@ -14,4 +14,7 @@ I'm not drunk at all !
 
 Du coup, on peut se promener dans les fichiers et voir ce qu'on fait !
 
+Ok doc  :)
+**turlututu chapeau pointu**
+
 {% include spotifyplaylist.html id=page.spotifyplaylist %}
