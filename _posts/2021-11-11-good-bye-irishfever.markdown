@@ -10,5 +10,8 @@ image:
 spotifyplaylist: spotify/playlist/37i9dQZF1DXdLfF6pfs0Bt
 ---
 So long and thanks for all the fish !
+I'm not drunk at all !
+
+Du coup, on peut se promener dans les fichiers et voir ce qu'on fait !
 
 {% include spotifyplaylist.html id=page.spotifyplaylist %}
