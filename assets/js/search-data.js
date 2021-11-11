@@ -5,7 +5,7 @@ var store = [{
         "url": "/layout/welcome-to-irishfever/"
       },{
         "title": "Toto n'a pas supporté son troisième album Irish Fever!",
-        "excerpt":"So long and thanks for all the fish ! ","categories": ["toto_est_content"],
+        "excerpt":"So long and thanks for all the fish !     ","categories": ["toto_est_content"],
         "tags": [],
         "url": "/toto_est_content/good-bye-irishfever/"
       }]
