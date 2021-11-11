@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: posts
-title: Nos date de concert
+title: Nos dates de concert
 ---
 
