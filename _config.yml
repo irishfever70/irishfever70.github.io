@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: fr-FR
 title: "Irish Fever"
-description: "Toute l'Irlande dans une fausse note."
+description: "Toute l'Irlande sans une fausse note."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.png"
@@ -49,6 +49,7 @@ permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
+future: true
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 # paginate: 10
