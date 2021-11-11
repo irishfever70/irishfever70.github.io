@@ -3,14 +3,12 @@
 
 Christophe Ninucci:
   name: Christophe Ninucci
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+  picture: /images/christophe-ninucci.png
+  
+Fabien Aeby:
+  name: Fabien Aeby
+  picture: /images/fabien-aeby.png
+  
+Émilie Aeby:
+  name: Émilie Aeby
+  picture: /images/emilie-aeby.png
