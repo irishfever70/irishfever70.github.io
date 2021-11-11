@@ -7,6 +7,8 @@ image:
   path: /images/banner.jpg
   thumbnail: /images/thumbnail.jpg
   caption: "image de test"
-
+spotifyplaylist: spotify/playlist/37i9dQZF1DXdLfF6pfs0Bt
 ---
 So long and thanks for all the fish !
+
+{% include spotifyplaylist.html id=page.spotifyplaylist %}
