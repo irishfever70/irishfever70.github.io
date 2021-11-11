@@ -1,16 +1,11 @@
 var store = [{
-        "title": "Welcome to Irish Fever!",
-        "excerpt":"Hello this is Irish Fever talking !And its friends. ","categories": ["Layout"],
+        "title": "Venez nous écouter le 20 novembre 2021 à Pusey!",
+        "excerpt":"Venez nous retrouver à la fête du chapeau de paille à Pusey le 20 novembre 2021 ! Infos pratiques:   blabla  carte google  etc.","categories": ["concert"],
         "tags": [],
-        "url": "/layout/welcome-to-irishfever/"
+        "url": "/concert/20-novembre-pusey/"
       },{
-        "title": "20 Novembre Pusey",
-        "excerpt":"","categories": [],
+        "title": "Venez nous écouter le 5 novembre quelque part!",
+        "excerpt":"Venez nous retrouver au festival de la limonade ! Infos pratiques:   blabla  carte google  etc.","categories": ["concert"],
         "tags": [],
-        "url": "/20-novembre-pusey/"
-      },{
-        "title": "Toto n'a pas supporté son troisième album Irish Fever!",
-        "excerpt":"So long and thanks for all the fish !I’m not drunk at all ! Du coup, on peut se promener dans les fichiers et voir ce qu’on fait ! Ok doc  :)turlututu chapeau pointu     ","categories": ["toto_est_content"],
-        "tags": [],
-        "url": "/toto_est_content/good-bye-irishfever/"
+        "url": "/concert/5-d%C3%A9cembre-quelque-part/"
       }]
