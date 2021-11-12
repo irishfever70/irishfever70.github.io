@@ -14,12 +14,12 @@ Moi, si je devais résumer ma musique aujourd'hui avec vous, je dirais que c'est
 [![Deezer](/images/deezer.png)](https://www.deezer.com/fr/artist/14355049)
 [![Apple Music](/images/apple.png)](https://music.apple.com/fr/artist/the-irish-fever/1361062466)
 # Nos albums
-{% include spotifyplaylist.html id="5wZ5UHBoLph19d7gJ5imIH" %}
-{% include spotifyplaylist.html id="64KcZISWAMdj9vwcyNPLbk" %}
+{% include spotify.html id="5wZ5UHBoLph19d7gJ5imIH" %}
+{% include spotify.html id="64KcZISWAMdj9vwcyNPLbk" %}
 
 
 # Nos singles
-{% include spotifyplaylist.html id="5ziXLEkXLIIaIZrAhiL1ZQ" %}
-{% include spotifyplaylist.html id="0JhcUKMBAvG9Sd6OJyZrGE" %}
-{% include spotifyplaylist.html id="3YkmZkU51il3gZkiSsXo3Q" %}
+{% include spotify.html id="5ziXLEkXLIIaIZrAhiL1ZQ" %}
+{% include spotify.html id="0JhcUKMBAvG9Sd6OJyZrGE" %}
+{% include spotify.html id="3YkmZkU51il3gZkiSsXo3Q" %}
 
