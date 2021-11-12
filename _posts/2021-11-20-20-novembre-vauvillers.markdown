@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Venez nous écouter le 20 novembre 2021 à Vauvillers!"
-date:   2021-11-20 17:00:00 +0100
+date:   2021-11-20 19:00:00 +0100
 categories: concert
 image: 
   path: /images/vauvillers.png
