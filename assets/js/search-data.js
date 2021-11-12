@@ -9,7 +9,7 @@ var store = [{
         "tags": [],
         "url": "https://www.irishfever.fr//concert/5-d%C3%A9cembre-pusey-copy/"
       },{
-        "title": "Venez nous écouter le 19 décembre 2021 à Luxeuil",
+        "title": "Venez nous écouter le 19 décembre 2021 à Luxeuil-les-Bains",
         "excerpt":"Infos pratiques à venir ! ","categories": ["concert"],
         "tags": [],
         "url": "https://www.irishfever.fr//concert/19-d%C3%A9cembre-luxeuil/"
