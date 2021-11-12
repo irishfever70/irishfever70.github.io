@@ -12,7 +12,7 @@ Moi, si je devais résumer ma musique aujourd'hui avec vous, je dirais que c'est
 [![Facebook](/images/facebook.png)](https://www.facebook.com/TheIrishFever/)
 [![Spotify](/images/spotify.png)](https://open.spotify.com/artist/5L20pFQ2OgglIxjRu4hD9S)
 [![Deezer](/images/deezer.png)](https://www.deezer.com/fr/artist/14355049)
-
+[![Apple Music](/images/apple.png)](https://music.apple.com/fr/artist/the-irish-fever/1361062466)
 # Nos albums
 {% include spotifyplaylist.html id="5wZ5UHBoLph19d7gJ5imIH" %}
 {% include spotifyplaylist.html id="64KcZISWAMdj9vwcyNPLbk" %}
@@ -23,6 +23,3 @@ Moi, si je devais résumer ma musique aujourd'hui avec vous, je dirais que c'est
 {% include spotifyplaylist.html id="0JhcUKMBAvG9Sd6OJyZrGE" %}
 {% include spotifyplaylist.html id="3YkmZkU51il3gZkiSsXo3Q" %}
 
-
-# Nos mascottes
-![marmotte](https://c.tenor.com/jBtva_n5L3YAAAAC/what-nani.gif)
