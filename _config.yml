@@ -22,7 +22,7 @@ description: "Toute l'Irlande sans une fausse note."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://www.irishfever.fr/" 
 logo: "/images/logo.png"
-date_format: "%m/%d/%Y"
+date_format: "%d/%m/%Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax:
