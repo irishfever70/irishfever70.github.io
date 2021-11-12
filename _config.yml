@@ -20,7 +20,7 @@ locale: fr-FR
 title: "the Irish Fever"
 description: "Toute l'Irlande sans une fausse note."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://www.irishfever.fr/" 
 logo: "/images/logo.png"
 date_format: "%m/%d/%Y"
 read_time: # reading time estimates, e.g. true
