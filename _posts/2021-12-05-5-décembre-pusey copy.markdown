@@ -6,7 +6,7 @@ categories: concert
 image: 
   path: /images/pusey.png
   thumbnail: /images/pusey.png
-  caption: "foule en délire"
+  caption: "vue de Pusey"
 ---
 
 Infos pratiques à venir !
