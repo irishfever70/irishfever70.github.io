@@ -1,11 +1,16 @@
 var store = [{
-        "title": "Venez nous écouter le 20 novembre 2021 à Pusey!",
-        "excerpt":"Venez nous retrouver à la fête du chapeau de paille à Pusey le 20 novembre 2021 ! Infos pratiques:   blabla  carte google  etc.","categories": ["concert"],
+        "title": "Venez nous écouter le 20 novembre 2021 à Vauvillers!",
+        "excerpt":"Le 20 novembre 2021, nous animons un repas donné à la salle des fêtes de Vauvillers, dans la cours du château, pour fêter l’arrivée du Beaujolais Nouveau. Vous pouvez participer à ce repas pour la somme de 20€ en réservant votre place auprès de Jean-François au 03.84.92.95.99 Au menu: Apéritif...","categories": ["concert"],
         "tags": [],
-        "url": "https://www.irishfever.fr//concert/20-novembre-pusey/"
+        "url": "https://www.irishfever.fr//concert/20-novembre-vauvillers/"
       },{
-        "title": "Venez nous écouter le 5 décembre quelque part!",
-        "excerpt":"Venez nous retrouver au festival de la limonade ! Infos pratiques:   de 13 à 14h avec Jean-Castex en guest star !  pour la fin de soirée pensez aux masques et au gel          Afficher une carte plus grande  ","categories": ["concert"],
+        "title": "Venez nous écouter le 5 décembre 2021 à Pusey",
+        "excerpt":"Infos pratiques à venir ! ","categories": ["concert"],
         "tags": [],
-        "url": "https://www.irishfever.fr//concert/5-d%C3%A9cembre-quelque-part/"
+        "url": "https://www.irishfever.fr//concert/5-d%C3%A9cembre-pusey-copy/"
+      },{
+        "title": "Venez nous écouter le 19 décembre 2021 à Luxeuil",
+        "excerpt":"Infos pratiques à venir ! ","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/19-d%C3%A9cembre-luxeuil/"
       }]
