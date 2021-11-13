@@ -17,10 +17,10 @@ Jouant également tous dans d'autres ensembles ou groupes (classique, rock...), 
 
 Nul doute qu'ils sauront vous transmettre leur fougue et leur plaisir de partager la musique !
 
-Flûtes : Emilie  
-Violon : Christophe  
+Flûtes/Chœurs : Emilie  
+Violon/Chœurs : Christophe  
 Guitare/Banjo/Chant : Fabien  
-Basse/Chœurs : Sébastien  
+Contrebasse/Chœurs : Sébastien  
 Percussions/Chœurs : Alexis
 
 
