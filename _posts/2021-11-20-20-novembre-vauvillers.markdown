@@ -9,7 +9,7 @@ image:
   caption: "vue de Vauvillers"
 ---
 
-Le 20 novembre 2021, nous animons un repas donné à la salle des fêtes de Vauvillers, dans la cours du château, pour fêter l'arrivée du Beaujolais Nouveau.
+Le 20 novembre 2021, nous animons un repas donné à la salle des fêtes de Vauvillers, dans la cour du château, pour fêter l'arrivée du Beaujolais Nouveau.
 
 Vous pouvez participer à ce repas pour la somme de **20€** en réservant votre place auprès de **Jean-François** au **03.84.92.95.99**
 

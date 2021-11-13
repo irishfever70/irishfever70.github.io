@@ -9,4 +9,6 @@ image:
   caption: "les arcades de Luxeuil-les-Bains"
 ---
 
-Infos pratiques à venir !
+Concert à Luxeuil-les-Bains dimanche 19 décembre de 18h à 20h dans le cadre du marché de Noël, sur la place de l'Abbaye, en extérieur.
+
+Ce concert est gratuit ;)

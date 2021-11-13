@@ -9,5 +9,6 @@ image:
   caption: "vue de Pusey"
 ---
 
-Infos pratiques à venir !
+Concert à Pusey le 05 décembre de 14h à 15h, Maison Municipale et des Associations (6 bis rue du Breuil) dans le cadre du marché de Noël de Pusey.
 
+Entrée gratuite ;)
