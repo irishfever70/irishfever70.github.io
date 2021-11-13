@@ -3,11 +3,26 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Je crois qu'il n'y a pas de bonne ou de mauvaise musique irlandaise
+title: Quand la fièvre irlandaise frappe la haute-saône
 order: 1
 ---
 
-Moi, si je devais résumer ma musique aujourd'hui avec vous, je dirais que c'est d'abord des rencontres. Des gens qui m'ont tendu la main, peut-être à un moment où je ne pouvais pas, où j'étais seul chez moi.
+Le groupe The Irish Fever est né d'un goût commun des 5 musiciens qui le composent pour la musique irlandaise et ses sons et mélodies si caractéristiques. Leur goût pour la fête et le partage n'est pas non plus étranger à leur envie de créer ce groupe ! 
+
+Ces musiciens se sont inspirés de groupes mythiques comme les Pogues ou les Dubliners (pour ne citer qu'eux) pour leurs arrangements de morceaux irlandais, dans un esprit de tradition marqué par leur style personnel.
+
+Les 5 membres du groupe sont des musiciens confirmés et passionnés, issus de parcours variés (autodidacte ou parcours plus classique de conservatoire supérieur de musique) et c'est ce qui fait leur force car ils s'avèrent très complémentaires. Ils allient la technique instrumentale virtuose à la spontanéité et l'inspiration demandées par cette musique.
+Ils se connaissent par ailleurs depuis des années, ce qui apporte une plus-value à leurs prestations dans lesquelles la complicité est évidente.
+Jouant également tous dans d'autres ensembles ou groupes (classique, rock...), ils ont une solide maîtrise de la scène et cette grande expérience constitue une réelle richesse.
+
+Nul doute qu'ils sauront vous transmettre leur fougue et leur plaisir de partager la musique !
+
+Flûtes : Emilie
+Violon : Christophe
+Guitare/Banjo/Chant : Fabien
+Basse/Chœurs : Sébastien
+Percussions/Chœurs : Alexis
+
 
 ## Nous retrouver sur les internets
 
