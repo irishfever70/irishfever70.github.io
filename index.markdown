@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Quand la fièvre irlandaise frappe la haute-saône
+title: Cette fièvre irlandaise qui fait du bien...
 order: 1
 ---
 
@@ -17,10 +17,10 @@ Jouant également tous dans d'autres ensembles ou groupes (classique, rock...), 
 
 Nul doute qu'ils sauront vous transmettre leur fougue et leur plaisir de partager la musique !
 
-Flûtes : Emilie
-Violon : Christophe
-Guitare/Banjo/Chant : Fabien
-Basse/Chœurs : Sébastien
+Flûtes : Emilie  
+Violon : Christophe  
+Guitare/Banjo/Chant : Fabien  
+Basse/Chœurs : Sébastien  
 Percussions/Chœurs : Alexis
 
 
