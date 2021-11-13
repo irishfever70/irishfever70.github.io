@@ -850,5 +850,42 @@ figure.align-center figcaption { text-align: center; }
 .responsive-embed-1by1::before { padding-top: 100%; }
 
 /* Custom */
+h2 { margin-top: 3rem; }
+
+.mesPictos p { display: flex; flex-wrap: wrap; justify-content: flex-start; }
+
+.mesPictos a { margin: 5px; }
+
+.mesPictos img:hover { animation-name: scaleItUp; animation-duration: 0.2s; transform: scale(1.1); }
+
+.mesPictos img { animation-name: scaleItDown; animation-duration: 0.3s; transform: scale(1); }
+
+.mesAlbums iframe { height: 470px; }
+
+.mesSingles iframe { max-height: 160px; }
+
+.social-icons { display: none; }
+
+.site-footer { margin: 2em 0 0; }
+
+.nous-contacter input, .nous-contacter textarea { width: 700px; max-width: 100%; border: none; background: #eee; border-radius: 0.5rem; padding: 15px; display: block; }
+
+.nous-contacter input { height: 2rem; }
+
+.nous-contacter button { padding: 0.5rem; text-align: center; width: 200px; max-width: 100%; display: block; margin: 0 auto; }
+
+.nous-contacter label { display: block; }
+
+.nous-contacter .page-content { max-width: 700px; margin: 0 auto; }
+
+.nous-contacter h1 { text-align: center; }
+
+@keyframes scaleItDown { 0% { transform: scale(1.1); }
+  100% { transform: scale(1); } }
+
+@keyframes scaleItUp { 0% { transform: scale(1); }
+  100% { transform: scale(1.1); } }
+
+@media only screen and (max-width: 768px) { .mesPictos p { justify-content: center; } }
 
 /*# sourceMappingURL=main.css.map */
