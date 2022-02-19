@@ -14,15 +14,15 @@ var store = [{
         "tags": [],
         "url": "https://www.irishfever.fr//concert/19-d%C3%A9cembre-luxeuil/"
       },{
-        "title": "Venez nous écouter le 11 mars 2022 à Luxeuil",
-        "excerpt":"Le 11 mars 2021, nous jouons au restaurant l’Annexe du Café Français à Luxeuil à 19h. Adresse: 15, rue Georges Victor Genoux à Luxeuil     ","categories": ["concert"],
+        "title": "Venez nous écouter le 11 mars 2022 à Luxeuil-les-Bains",
+        "excerpt":"Le 11 mars 2021, nous jouons au restaurant l’Annexe du Café Français à Luxeuil-les-Bains à 19h. Adresse: 15, rue Georges Victor Genoux à Luxeuil     ","categories": ["concert"],
         "tags": [],
-        "url": "https://www.irishfever.fr//concert/11-mars-luxeuil-copy/"
+        "url": "https://www.irishfever.fr//concert/11-mars-luxeuil/"
       },{
         "title": "Venez nous écouter le 18 mars 2022 à Vesoul",
         "excerpt":"Le 18 mars 2021, nous jouons au Nulle Part Ailleurs à Vesoul. Adresse: 8 Rue de l’Aigle Noir, 70000 Vesoul     ","categories": ["concert"],
         "tags": [],
-        "url": "https://www.irishfever.fr//concert/18-mars-luxeuil/"
+        "url": "https://www.irishfever.fr//concert/18-mars-vesoul/"
       },{
         "title": "Venez nous écouter le 19 mars 2022 à Écromagny",
         "excerpt":"Le 19 mars 2021, nous animons un repas organisé à la salle des fêtes d’Ecromagny par les Musicales de Clairegoutte (ASPPEC). Vous pouvez participer à ce repas pour la somme de 20€ en réservant votre place par mail ou par téléphone au 06.89.51.87.12 Télécharger l’affiche au format PDF     ","categories": ["concert"],
