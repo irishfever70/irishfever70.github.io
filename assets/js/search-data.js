@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"Concert à Luxeuil-les-Bains dimanche 19 décembre de 18h à 20h dans le cadre du marché de Noël, sur la place de l’Abbaye, en extérieur. Ce concert est gratuit ;)     ","categories": ["concert"],
         "tags": [],
         "url": "https://www.irishfever.fr//concert/19-d%C3%A9cembre-luxeuil/"
+      },{
+        "title": "Venez nous écouter le 19 mars 2022 à Écromagny",
+        "excerpt":"Le 20 novembre 2021, nous animons un repas organisé à la salle des fêtes d’Ecromagny par les Musicales de Clairegoutte (ASPPEC). Vous pouvez participer à ce repas pour la somme de 20€ en réservant votre place par mail ou par téléphone au 06.89.51.87.12 Télécharger l’affiche au format PDF     ","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/19-mars-ecromagny/"
       }]
