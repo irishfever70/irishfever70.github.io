@@ -15,7 +15,7 @@ var store = [{
         "url": "https://www.irishfever.fr//concert/19-d%C3%A9cembre-luxeuil/"
       },{
         "title": "Venez nous écouter le 11 mars 2022 à Luxeuil-les-Bains",
-        "excerpt":"Le 11 mars 2021, nous jouons au restaurant l’Annexe du Café Français à Luxeuil-les-Bains à 19h. Adresse: 15, rue Georges Victor Genoux à Luxeuil     ","categories": ["concert"],
+        "excerpt":"Le 11 mars 2021, nous jouons au restaurant l’Annexe du Café Français à Luxeuil-les-Bains à 19h.      ","categories": ["concert"],
         "tags": [],
         "url": "https://www.irishfever.fr//concert/11-mars-luxeuil/"
       },{
