@@ -33,4 +33,9 @@ var store = [{
         "excerpt":"Le 23 juin 2022, nous participons au Festival Celtive de Saint-Loup sur Semouse ! Le festival se déroule en plein air sur le site du Chateau Bouly à partir de 18h      ","categories": ["concert"],
         "tags": [],
         "url": "https://www.irishfever.fr//concert/23-juin-saint-loup-festival-celtique/"
+      },{
+        "title": "Le restaurant l'Alpage nous accueille pour une soirée Irlandaise",
+        "excerpt":"Venez nous écouter le 1er Juillet 2022 à Vesoul, rue Alsace Lorraine où nous interpréterons notre répertoire dans une ambiance festive au 18 de la rue d’Alsace Lorraine. Infos pratiques L’Alpage18 Rue d’Alsace Lorraine70000 Vesoul     ","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/1-juillet-vesoul-alpage/"
       }]
