@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"Le 19 mars 2021, nous animons un repas organisé à la salle des fêtes d’Ecromagny par les Musicales de Clairegoutte (ASPPEC). Vous pouvez participer à ce repas pour la somme de 20€ en réservant votre place par mail ou par téléphone au 06.89.51.87.12 Télécharger l’affiche au format PDF     ","categories": ["concert"],
         "tags": [],
         "url": "https://www.irishfever.fr//concert/19-mars-ecromagny/"
+      },{
+        "title": "Venez au Festival Celtique de Saint-Loup sur Semouse",
+        "excerpt":"Le 23 juin 2022, nous participons au Festival Celtive de Saint-Loup sur Semouse ! Le festival se déroule en plein air sur le site du Chateau Bouly à partir de 18h      ","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/23-juin-saint-loup-festival-celtique/"
       }]
