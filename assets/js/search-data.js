@@ -38,4 +38,9 @@ var store = [{
         "excerpt":"Venez nous écouter le 1er Juillet 2022 à Vesoul, rue Alsace Lorraine où nous interpréterons notre répertoire dans une ambiance festive au 18 de la rue d’Alsace Lorraine. Infos pratiques L’Alpage18 Rue d’Alsace Lorraine70000 Vesoul     ","categories": ["concert"],
         "tags": [],
         "url": "https://www.irishfever.fr//concert/1-juillet-vesoul-alpage/"
+      },{
+        "title": "Soirée irlandaise aux marchés de nuit de Luxeuil-les-Bains",
+        "excerpt":"Les marchés de nuit de Luxeuil-les-Bains nous confient le soin d’animer une soirée irlandaise le 2 août 2022. Les infos pratiques sont disponibles dans le programme. ","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/2-aout-marche-nocturne-luxeuil/"
       }]
