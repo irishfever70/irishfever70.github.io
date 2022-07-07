@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Soirée irlandaise aux marchés de nuit de Luxeuil-les-Bains"
-date:   2022-08-01 20:00:00 +0100
+date:   2022-08-02 20:00:00 +0100
 categories: concert
 image: 
   path: /images/nocturne_luxeuil.png
