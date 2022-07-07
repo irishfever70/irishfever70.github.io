@@ -6,7 +6,7 @@ categories: concert
 image: 
   path: /images/vesoul-parapluies.png
   thumbnail: /images/vesoul-parapluies.png
-  caption: "Saint-Loup sur Semouse"
+  caption: "Vesoul"
 ---
 
 Venez nous écouter le 1er Juillet 2022 à Vesoul, rue Alsace Lorraine où nous interpréterons notre répertoire dans une ambiance festive au 18 de la rue d'Alsace Lorraine.
