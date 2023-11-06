@@ -43,4 +43,64 @@ var store = [{
         "excerpt":"Les marchés de nuit de Luxeuil-les-Bains nous confient le soin d’animer une soirée irlandaise le 2 août 2022. Les infos pratiques sont disponibles dans le programme. ","categories": ["concert"],
         "tags": [],
         "url": "https://www.irishfever.fr//concert/2-aout-marche-nocturne-luxeuil/"
+      },{
+        "title": "Soirée irlandaise à la salle des fêtes d'Aillevillers",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/26-novembre-aillevillers/"
+      },{
+        "title": "Concert irlandais",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/11-mars-la-neuvelle/"
+      },{
+        "title": "Soirée Saint Patrick au Café Français",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/17-mars-cafe-francais/"
+      },{
+        "title": "Soirée Saint-Patrick à la salle des fêtes de Clairegoutte",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/18-mars-clairegoutte/"
+      },{
+        "title": "Soirée Saint Patrick la salle des fêtes de Colombe-lès-Vesoul",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/25-mars-colombe-les-vesoul/"
+      },{
+        "title": "Concert à l'église du Val d'Ajol",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/17-mai-val-d-ajol/"
+      },{
+        "title": "Concert en plein air à Polaincourt",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/24-juin-polaincourt/"
+      },{
+        "title": "Concert aux Superbes d'Amance",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/01-juillet-amance/"
+      },{
+        "title": "Concert au temple de Vandoncourt",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/16-septembre-vandoncourt/"
+      },{
+        "title": "Concert au Fisherman's pub à Rouffach",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/21-octobre-rouffach/"
+      },{
+        "title": "Concert aux Celtivales à Pierrefontaine-les-Varan",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/28-octobre-celtivales/"
+      },{
+        "title": "Concert au restaurant Les Jumeaux à Nonville",
+        "excerpt":"","categories": ["concert"],
+        "tags": [],
+        "url": "https://www.irishfever.fr//concert/03-novembres-nonville/"
       }]
